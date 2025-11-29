@@ -3,7 +3,7 @@
 This project contains a comprehensive SQL script with 34 queries designed to analyze hospital-related datasets, including Admissions, Doctors, Patients and Province_Names.
 The goal is to demonstrate SQL proficiency across multiple levels — Basic, Intermediate, and Advanced — while deriving meaningful insights from medical records.
 
-🧰 Technologies Used
+🧰 Technologies Used :
 
 SQL (MySQL Workbench)
 
@@ -11,11 +11,11 @@ Relational database concepts (Joins, Grouping, Aggregation)
 
 Data cleaning & transformation techniques
 
-🗂️ Query Classification (Basic → Intermediate → Advanced)
+🗂️ Query Classification (Basic → Intermediate → Advanced) :
 
 Below is the classification of all 34 queries from the SQL script into three levels based on complexity and operational use.
 
-🟦 1. BASIC LEVEL QUERIES
+🟦 1. BASIC LEVEL QUERIES :
 
 These queries focus on simple filtering, selecting, ordering, and basic conditions.
 | Query No. | Description                                         |
@@ -39,7 +39,7 @@ These queries focus on simple filtering, selecting, ordering, and basic conditio
 |    **17** | First names that occur only once                    |
 |    **18** | Pattern matching with `LIKE`                        |
 
-🟩 2. INTERMEDIATE LEVEL QUERIES
+🟩 2. INTERMEDIATE LEVEL QUERIES :
 
 These queries apply grouping, aggregation, conditional logic, ordering by derived fields, and simple joins.
 | Query No. | Description                                         |
@@ -59,7 +59,7 @@ These queries apply grouping, aggregation, conditional logic, ordering by derive
 |    **31** | Group patients by weight groups                     |
 |    **32** | Calculate obesity boolean using BMI formula         |
 
-🟥 3. ADVANCED LEVEL QUERIES
+🟥 3. ADVANCED LEVEL QUERIES :
 
 These involve multiple-table joins, conditional logic, grouping logic, and creating computed fields for secure data processes.
 | Query No. | Description                                                             |
@@ -67,7 +67,7 @@ These involve multiple-table joins, conditional logic, grouping logic, and creat
 |    **33** | Multi-table join (Patients + Admissions + Doctors) with dual conditions |
 |    **34** | Generate temporary passwords combining ID + name length + birth year    |
 
-📘 Key Concepts Demonstrated
+📘 Key Concepts Demonstrated :
 
 | Category                     | Concepts Demonstrated |
 |-----------------------------|------------------------|
@@ -88,4 +88,4 @@ These involve multiple-table joins, conditional logic, grouping logic, and creat
 
 This project was developed using the dataset provided by Datamites Internship Team and MySQL Workbench to provide insights for job seekers, recruiters, and policy makers.
 
-👉 Here is the complete link of the SQL Script of the report : 
+👉 Here is the complete link of the SQL Script of the report : https://github.com/ARPAN-BIANALYST21/SQL_HOSPITAL_DATA_ANALYSIS/blob/5d2bbecb4632412439cd654fb2cffb1dd7664277/HOSPITAL_DATA_ANALYSIS.sql
