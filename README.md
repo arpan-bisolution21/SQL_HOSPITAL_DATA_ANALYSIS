@@ -88,4 +88,4 @@ These involve multiple-table joins, conditional logic, grouping logic, and creat
 
 This project was developed using the dataset provided by Datamites Internship Team and MySQL Workbench to provide insights for job seekers, recruiters, and policy makers.
 
-👉 Here is the complete link of the SQL Script of the report : https://github.com/ARPAN-BIANALYST21/SQL_HOSPITAL_DATA_ANALYSIS/blob/5d2bbecb4632412439cd654fb2cffb1dd7664277/HOSPITAL_DATA_ANALYSIS.sql
+👉 Here is the complete link of the SQL Script of the queries : https://github.com/ARPAN-BIANALYST21/SQL_HOSPITAL_DATA_ANALYSIS/blob/5d2bbecb4632412439cd654fb2cffb1dd7664277/HOSPITAL_DATA_ANALYSIS.sql
