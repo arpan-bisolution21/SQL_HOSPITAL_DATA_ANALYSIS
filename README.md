@@ -1,6 +1,6 @@
 📊 Hospital Data Analysis — SQL Project
 
-This project contains a comprehensive SQL script with 34 queries designed to analyze hospital-related datasets, including Patients, Doctors, Admissions, and Province names.
+This project contains a comprehensive SQL script with 34 queries designed to analyze hospital-related datasets, including ADMISSIONS, DOCTORS, PATIENTS and PROVINCE_NAMES.
 The goal is to demonstrate SQL proficiency across multiple levels — Basic, Intermediate, and Advanced — while deriving meaningful insights from medical records.
 
 🧰 Technologies Used
