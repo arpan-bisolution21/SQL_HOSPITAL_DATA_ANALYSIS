@@ -44,22 +44,20 @@ These Queries focus on Simple Filtering, Selecting, Ordering, and Basic Conditio
 These Queries apply Grouping, Aggregation, Conditional Logic, Ordering by Derived Fields, and Simple Joins.
 | Query No. | Description                                         |
 | --------: | --------------------------------------------------- |
-|    **19** | Join Patients & Admissions to Filter a Diagnosis    |
-|    **20** | Order Names by Character Length                     |
-|    **21** | Male vs Female Counts using CASE WHEN               |
-|    **22** | Patients admitted Multiple Times for same Diagnosis |
-|    **23** | City-Wise Patient Counts with Sorting               |
-|    **24** | Combine Patients + Doctors using `UNION ALL`        |
-|    **25** | Allergy Frequency Analysis          
-                          |           
-
-|    **26** | Date range Filtering for 1970s                      |
-|    **27** | Format Full Names using UPPER/LOWER + CONCAT        |
-|    **28** | Sum of Heights per Province (HAVING clause)         |
-|    **29** | Weight-Range Analysis using MAX – MIN               |
-|    **30** | Admissions Per-Day of Month                         |
-|    **31** | Group Patients by Weight Groups                     |
-|    **32** | Calculate Obesity Boolean using BMI Formula         |
+|     **19** | Join Patients & Admissions to Filter a Diagnosis    |
+|     **20** | Order Names by Character Length                     |
+|     **21** | Male vs Female Counts using CASE WHEN               |
+|     **22** | Patients admitted Multiple Times for same Diagnosis |
+|     **23** | City-Wise Patient Counts with Sorting               |
+|     **24** | Combine Patients + Doctors using `UNION ALL`        |
+|     **25** | Allergy Frequency Analysis                          |
+|     **26** | Date range Filtering for 1970s                      |
+|     **27** | Format Full Names using UPPER/LOWER + CONCAT        |
+|     **28** | Sum of Heights per Province (HAVING clause)         |
+|     **29** | Weight-Range Analysis using MAX – MIN               |
+|     **30** | Admissions Per-Day of Month                         |
+|     **31** | Group Patients by Weight Groups                     |
+|     **32** | Calculate Obesity Boolean using BMI Formula         |
 
 🟥 3. ADVANCED LEVEL QUERIES :
 
